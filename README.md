@@ -48,7 +48,7 @@ This project implements a toxic text classification system using DistilBERT with
 
 1. Build and start the containers:
 ```bash
-docker-compose up --build
+docker compose up --build
 ```
 
 2. Access the application:
