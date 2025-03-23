@@ -106,7 +106,7 @@ The project uses a DistilBERT model fine-tuned on the English Hate Speech Supers
 
 | Web Interface |
 |--------------------------|
-| <img src="./figures/web_a7.png" width="600" height="400"/> |
+| <img src="./figures/web_a7.png" width="600" length="400"/> |
 
 ## Discussion
 
