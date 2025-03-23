@@ -102,6 +102,12 @@ The project uses a DistilBERT model fine-tuned on the English Hate Speech Supers
 | Even Layer | 0.176234     | 0.492161  | 0.818215     |
 | LoRA       | 0.399200     | 0.418820  | 0.809986     |
 
+8. **Web Interface**
+
+| Web Interface |
+|--------------------------|
+| <img src="./figures/web_a7.png" width="600" height="400"/> |
+
 ## Discussion
 
 In terms of training loss, the distillation models (both odd and even) are twice as good as LoRA models(12 layers). However, significant performance differences are not observed on the test set although there is still a small margin for better loss and accuracy (test) in the distillation models.
