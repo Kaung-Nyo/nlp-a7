@@ -89,11 +89,10 @@ The project uses a DistilBERT model fine-tuned on the English Hate Speech Supers
      - `odd_student_result.json`
 
 6. **Training Plots**
-```
-   | Even Layer   | Odd Layer  |
-   |--------------------------|--------------------------------|
-   | <img src="./figures/even.png" width="300"/> | <img src="./figures/odd.png" width="300"/> |
-```
+
+| Even Layer   | Odd Layer  |
+|--------------------------|--------------------------------|
+| <img src="./figures/even.png" width="300"/> | <img src="./figures/odd.png" width="300"/> |
    
 7. **Evaluation**
 
